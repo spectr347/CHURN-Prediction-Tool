@@ -1,3 +1,4 @@
+[CHURN Prediction Tool](https://churn-prediction-tool.streamlit.app/)
 # 📊 Customer Churn Prediction Dashboard
 
 An interactive machine learning web application that predicts customer churn using a Random Forest classification model.  
